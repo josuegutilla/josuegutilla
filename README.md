@@ -20,11 +20,12 @@
 </div>
 
 ## ⭐ **Meus dados no Github**
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/josuegutilla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuegutilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegutilla&layout=compact&langs_count=7&theme=tokyonight"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegutilla&layout=compact&langs_count=7&theme=tokyonight"/>
    
-     ![Snake animation](https://github.com/josuegutilla/josuegutilla/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/josuegutilla/josuegutilla/blob/output/github-contribution-grid-snake.svg)
    
-</div>
+</div>  
+  

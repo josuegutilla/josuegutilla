@@ -18,9 +18,5 @@
 
 
 ## ⭐ **Meus dados no Github**
-<div align="center">
-<img width="450em" alt="Status Github Josué Gutilla" src="https://github-readme-stats.vercel.app/api?username=josuegutilla&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegutilla&layout=compact&theme=dracula"/>
-</div>
    
 ![Snake animation](https://github.com/josuegutilla/josuegutilla/blob/output/github-contribution-grid-snake.svg)

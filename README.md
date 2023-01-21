@@ -1,7 +1,6 @@
 <h4 align="center">
  
-![O Cotidiano Japonês ilustrado em 8-bits - por Toyoi Yuuta](https://user-images.githubusercontent.com/105397445/213877930-a42f8e8e-c67c-4bd8-a2ff-f9f21e9bc08a.gif)
-
+![Debbie Balboa](https://user-images.githubusercontent.com/105397445/213877982-b5a62976-30ba-4cd0-bb8f-c05b3532c122.gif)
 
 <hr>
   

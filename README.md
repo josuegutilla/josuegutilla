@@ -1,6 +1,7 @@
 <h4 align="center">
  
-![Resultado de imagem para gifs programadores](https://user-images.githubusercontent.com/105397445/213877611-76825263-32c1-4193-aca8-aeead2b08a42.gif)
+![O Cotidiano Japonês ilustrado em 8-bits - por Toyoi Yuuta](https://user-images.githubusercontent.com/105397445/213877930-a42f8e8e-c67c-4bd8-a2ff-f9f21e9bc08a.gif)
+
 
 <hr>
   

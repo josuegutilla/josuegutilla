@@ -1,6 +1,6 @@
 <h4 align="center">
  
-![Debbie Balboa](https://user-images.githubusercontent.com/105397445/213877982-b5a62976-30ba-4cd0-bb8f-c05b3532c122.gif)
+![Resultado de imagem para gifs programadores](https://user-images.githubusercontent.com/105397445/213878413-891aa7f3-6b86-4cd2-bb46-d07ef87179a2.gif)
 
 <hr>
   

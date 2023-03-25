@@ -1,6 +1,6 @@
 <h4 align="center">
  
-![Resultado de imagem para gifs programadores](https://user-images.githubusercontent.com/105397445/213878413-891aa7f3-6b86-4cd2-bb46-d07ef87179a2.gif)
+![9e735fc7e318ee11cc62d25ff4eb3561](https://user-images.githubusercontent.com/105397445/227736706-fb1f622b-18ef-45e2-84bf-743b2654ae1b.gif)
 
 <hr>
   

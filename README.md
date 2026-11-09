@@ -57,15 +57,19 @@ Atualmente, direciono meus estudos para arquitetura de software, boas práticas 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Análise do GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=josuegutilla&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=539BF5&icon_color=539BF5&text_color=C9D1D9" />
+<a href="https://github.com/josuegutilla">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=josuegutilla&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=539BF5&icon_color=539BF5&text_color=C9D1D9" />
+</a>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegutilla&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=539BF5&text_color=C9D1D9" />
+<a href="https://github.com/josuegutilla">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=josuegutilla&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=539BF5&text_color=C9D1D9" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=josuegutilla&theme=github-dark-blue&hide_border=true&background=0D1117" />
 

@@ -31,40 +31,28 @@ Atualmente, direciono meus estudos para arquitetura de software, boas práticas 
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
 ### 💻 Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</div>
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</div>
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=postgres" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</div>
 
 ### 🛠️ Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,figma,vscode,visualstudio" />
-
-</div>
-
----
-
-## 🚀 Knowledge & Interests
-
-<div align="center">
-
-| Área | Conhecimentos |
-|:---|:---|
-| **Backend** | C#, .NET, ASP.NET Core, APIs REST |
-| **Architecture** | MVC, DDD, arquitetura de software |
-| **Frontend** | React, JavaScript, HTML, CSS, AJAX |
-| **Database** | PostgreSQL, SQL, bancos relacionais |
-| **Tools** | Git, GitHub, Bitbucket, Figma |
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,figma,vscode,visualstudio" />
 </div>
 
 ---
@@ -85,26 +73,16 @@ Atualmente, direciono meus estudos para arquitetura de software, boas práticas 
 
 ---
 
-## 🐍 Contribution Activity
+## 🌐 Contato
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/josuegutilla/josuegutilla/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/josué-gutilla-8865ab241">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/josuegutilla">
-  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -112,12 +90,6 @@ Atualmente, direciono meus estudos para arquitetura de software, boas práticas 
 ---
 
 <div align="center">
-
-### 💡 Philosophy
-
-*"Great software is built with logic, creativity and the desire to make a difference."*
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B70,100:539BF5&height=120&section=footer" />
 

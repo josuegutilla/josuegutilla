@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:539BF5,50:123B70,100:0D1117&height=220&section=header&text=Josu%C3%A9%20Gutilla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20C%23%20%26%20.NET%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="./assets/header.svg" alt="Josué Gutilla" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=539BF5&center=true&vCenter=true&width=600&lines=%3E+dotnet+run+--project+Josue;Back-end+com+C%23+%7C+.NET+%7C+ASP.NET+Core;Front-end+com+React+%7C+JavaScript;Dados+com+PostgreSQL;Transformando+problemas+em+c%C3%B3digo+%F0%9F%9A%80" />
 
@@ -108,4 +108,4 @@ Se você tem uma ideia ou um desafio, me chame — vamos construir algo juntos.
 </div>
 
 <!-- ==================== FOOTER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B70,100:539BF5&height=120&section=footer" />
+ <img width="100%" src="./assets/footer.svg" />
